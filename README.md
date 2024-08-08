@@ -7,6 +7,6 @@
 
 ## ライセンス
 
-- ファミコンの実機またはエミュレータで動作する 東方Project の二次創作ゲームソフトで自由に使っていただけます
-- その他の利用形態については [Twitter](https://x.com/suzukiplan) 等でお問い合わせください
-- [本家ガイドライン](https://touhou-project.news/guideline/)の遵守をお願いします
+- __[VGS-Zero](https://github.com/suzukiplan/vgszero)__ または __ファミコンの実機 若しくは エミュレータ__ で動作する 東方Project の二次創作ゲームソフトで自由に使っていただけます
+- 楽曲データの修正などは自由に行っていただいて問題ありません
+- その他のことは [本家ガイドライン](https://touhou-project.news/guideline/) の遵守をお願いします
